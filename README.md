@@ -37,11 +37,11 @@ Dastur quyidagilarni bajarsin:
 ```
 Mahsulot narxlarini kiriting ($, vergul bilan): 4.5, 3.2, 5.5
 Umumiy narx: $13.20 (thirteen dollars and twenty cents, тринадцать долларов двадцать центов)
+
 Yaxlitlangan narx: $13.20 (thirteen dollars and twenty cents, тринадцать долларов двадцать центов)
 ```
 
 ---
-
 # 3. `average_spending_tracker.py` – Kartadagi o‘rtacha harajatlar
 
 ---
