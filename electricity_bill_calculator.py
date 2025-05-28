@@ -15,7 +15,7 @@ ishlatilgan = Ohirida - Boshida
 tolov = ishlatilgan * kwh_uchun
 
 
-tolov = tolov.quantize(Decimal("0.01"), rounding=ROUND_HALF_UP)
+tolov = tolov.quantize(Decimal("0.01"))
 
 
 print(f"\nTo‘lov: ${tolov}")

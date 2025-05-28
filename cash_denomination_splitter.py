@@ -18,10 +18,8 @@ k_1 = amount // 1
 amount = amount % 1
 print("$1 kupyuradan:", k_1, "ta")
 
-# Umumiy summani hisoblash
 total = k_50 * 50 + k_10 * 10 + k_5 * 5 + k_1 * 1
 print("Umumiy summa: $", total)
 
-# Harflarda chiqarish (Ingliz tilida)
 print("So‘z bilan:", num2words(total, lang='en'), "dollars")
 print("So‘z bilan:", num2words(total, lang='ru'), "dollars")
